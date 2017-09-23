@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drawLettersAndFindWord.iml" filepath="$PROJECT_DIR$/.idea/modules/drawLettersAndFindWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../drawLettersAndFindWord/.idea/modules/drawLettersAndFindWord_main.iml" filepath="$PROJECT_DIR$/../drawLettersAndFindWord/.idea/modules/drawLettersAndFindWord_main.iml" group="drawLettersAndFindWord" />
+      <module fileurl="file://$PROJECT_DIR$/../drawLettersAndFindWord/.idea/modules/drawLettersAndFindWord_test.iml" filepath="$PROJECT_DIR$/../drawLettersAndFindWord/.idea/modules/drawLettersAndFindWord_test.iml" group="drawLettersAndFindWord" />
+    </modules>
+  </component>
+</project>
